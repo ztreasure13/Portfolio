@@ -111,8 +111,8 @@
   .image {
     position: relative;
     background-color: #32353f;
-    height: 100%;
-    width: 100%;
+    width: 600px;
+    height: 545px;
     padding-left: 20px;
   }
 
